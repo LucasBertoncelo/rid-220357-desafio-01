@@ -1,0 +1,122 @@
+body{
+    background-color:white ;
+}
+
+#titulo{
+background-color:#303030 ;    
+color: white;
+font-family: "Inter";
+margin-top: -10px;
+margin-left: -80px;
+margin-right: -10px;
+margin-bottom: 5px;
+font-size: 55px;
+padding: 150px;
+
+}
+#paragrafo1{
+background-color:#303030 ;
+color: white;
+font-family: "Inter";
+font-size: 25px;
+margin-top: -130px;
+margin-left: 73px;
+}
+
+#numeros{
+font-family: "Inter";
+text-align: center;
+background-color: #F9F9F9;
+margin-top: 95px;
+padding: 50px;
+display: grid;
+grid-auto-flow: column;
+}
+#oitocentos{
+font-weight: 600;
+font-size: 30px;
+margin-left: 50px;
+}
+#quarenta{
+font-weight: 600;
+font-size: 30px;
+}
+#milhoes{
+font-weight: 600;
+font-size: 30px;
+}
+
+#info{
+font-family: "Inter";
+background-color: #F9F9F9;
+font-weight: 300;
+font-size: 15px;
+display: grid;
+grid-auto-flow: column;
+margin-top: -90px;
+margin-left: 260px;
+}
+
+#textoefoto{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+#foto{
+    float: right;
+    margin-right: 20px;
+    margin-top: 100px;
+    margin-right: -70px;
+}
+
+#titulodotextofoto{
+    margin-top: 300px;
+    margin-left: 20px;
+}
+
+.texto2{
+    font-weight: 200;
+    font-size: 24px;
+}
+
+#final{
+    background-color: #303030;
+    
+    margin-top: 70px;
+    
+}
+
+#textofinal{
+    color: white;
+    font-family: "Inter";
+    margin-top: 50px;
+    text-align: center;
+}
+
+input{
+    width: 400px;
+    height: 40px; 
+    text-align: center;
+    border:0px;
+    border-radius: 5px;
+    margin-left: 462px;
+    
+}
+
+#botton{
+    background-color: #C07212;
+    font-family: "Inter";
+    color: white;
+    cursor: pointer;
+    margin-left: 570px;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+    font-weight: 600;
+}
+
+#divfinal{
+    background-color: #303030;
+}
+
